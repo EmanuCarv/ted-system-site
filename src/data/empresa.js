@@ -19,6 +19,10 @@ export const empresa = {
     {
       titulo: "Inovação responsável",
       descricao: "Adoção de novas tecnologias com foco em segurança, sustentabilidade e resultados reais."
+    },
+    {
+      titulo: "Acessibilidade",
+      descricao: "Acreditamos que um ambiente verdadeiramente forte é aquele desenhado para todos."
     }
   ],
   publicoAlvo:
@@ -55,6 +59,13 @@ export const empresa = {
       foto: "/images/amy.jpg",
       alt: "Foto de Amy Farrah Fowler",
       descricao: "Responsável por estruturar e proteger os bancos de dados dos clientes."
+    },
+    {
+      nome: "Penelope  Hofstadter",
+      cargo:"Especialista em Segurança da Informação",
+      foto:" ",
+      alt: "Foto de Penelope Hofstadter",
+      descricao: "Responsável pela segurança dos sistemas desenvolvidos."
     }
   ]
 };
